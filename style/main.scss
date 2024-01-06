@@ -111,3 +111,11 @@ h2e a {
     height: 70px;
     width: 120px;
 }
+#googleMap {
+  iframe {
+     border-radius: 10px;
+     position: relative;
+     transform: translateY(80px);
+     z-index: 1;
+  }
+}
